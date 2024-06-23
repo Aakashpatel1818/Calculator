@@ -19,7 +19,7 @@ script.js: Contains the logic for the calculator's operations.
 
 # Usage
 
- Clone the repository: git clone https://github.com/Aakashpatel1818/neumorphic-calculator.git
+ Clone the repository: git clone https://github.com/Aakashpatel1818/calculator.git
 
 Navigate to the project directory: cd neumorphic-calculator
 
